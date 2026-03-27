@@ -73,7 +73,7 @@ export function NewHero() {
               <img src={imgMitLogoSvg1} alt="MIT" className="h-[71px] w-auto" />
             </div>
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-[34px] p-6 h-[91px] flex items-center justify-center">
-              <img src={imgUnnamed11} alt="Partner" className="h-auto w-[166px]" />
+              <img src={imgUnnamed11} alt="Partner" className="h-[71px] w-auto" />
             </div>
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-[34px] p-6 h-[91px] flex items-center justify-center">
               <img src={imgNetflix2015LogoSvg1} alt="Netflix" className="h-[71px] w-auto" />
