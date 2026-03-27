@@ -9,6 +9,7 @@ import { MemberGrid } from "./components/MemberGrid";
 import { NewCTA } from "./components/NewCTA";
 import { Footer } from "./components/Footer";
 import TaidanVideo from "./components/TaidanVideo";
+import TaidanPodcast from "./components/TaidanPodcast";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
       <NewActivities />
       <Events />
       <TaidanVideo />
+      <TaidanPodcast /> 
       <News />
       <MemberVoices />
       <MemberGrid />
