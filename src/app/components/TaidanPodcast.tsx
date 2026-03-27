@@ -117,7 +117,7 @@ export default function TaidanPodcast() {
         {/* Title */}
         <motion.div {...fadeUp(0)}>
           <h1 className="text-[72px] font-bold tracking-tight mb-6">
-            MPC対談シリーズ
+            Podcasts
           </h1>
           <p className="text-white/70 text-xl mb-24 max-w-2xl leading-relaxed">
             挑戦する人と語る。
