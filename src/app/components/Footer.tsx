@@ -12,7 +12,7 @@ export function Footer() {
           {/* Logo and Description */}
           <div>
             <div className="flex items-center gap-4 mb-4">
-              
+              <img src="https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/MPC%E3%80%80%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%20(1)%20(1).png?alt=media&token=c301758c-777c-4415-bcd0-a40501b316a3" className="w-14 h-14 object-cover" />
               <span className="font-bold text-white text-xl">MPC</span>
             </div>
             <p className="text-white/60 text-sm">
