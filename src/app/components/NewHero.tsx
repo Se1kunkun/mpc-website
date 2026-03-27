@@ -1,8 +1,8 @@
 const imgMpcAikon1 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/MPC%E3%80%80%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?alt=media&token=0617606a-0a9c-46ca-8568-9d06f9b5487d";
 const imgOgImage11 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/og_image.jpg?alt=media&token=695dea05-4763-447e-ad74-7d95762b58f2";
-const imgMitLogoSvg1 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/MIT%20Logo%20SVG.png?alt=media&token=5e8f9a4c-7d6e-4f1a-8f3d-7b5e9c8a4b2d";
-const imgUnnamed11 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/Unnamed%20(1).jpg?alt=media&token=5e8f9a4c-7d6e-4f1a-8f3d-7b5e9c8a4b2d";
-const imgNetflix2015LogoSvg1 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/Netflix%202015%20Logo%20SVG.png?alt=media&token=5e8f9a4c-7d6e-4f1a-8f3d-7b5e9c8a4b2d";
+const imgMitLogoSvg1 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/school-logo.webp?alt=media&token=ceac9938-35ce-4d21-8fac-48fd91e2e686";
+const imgUnnamed11 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/channels4_profile.jpg?alt=media&token=fe9be191-4678-46d7-8d91-52df0cef03a8";
+const imgNetflix2015LogoSvg1 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/RLxa1mj9_400x400.jpg?alt=media&token=6820b792-f2d7-4288-85b5-53e45b343a88";
 const img4001X33371 = "https://firebasestorage.googleapis.com/v0/b/liberalartshub-20b63.firebasestorage.app/o/400x333.jpg?alt=media&token=5e8f9a4c-7d6e-4f1a-8f3d-7b5e9c8a4b2d";
 
 export function NewHero() {
